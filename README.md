@@ -1,1 +1,1 @@
-# AbdKhuffash-Comparative-Analysis-of-SVM-and-MLP-for-Bank-Notes-Datasets
+# Comparative-Analysis-of-SVM-and-MLP-for-Bank-Notes-Datasets
